@@ -1,0 +1,439 @@
+Country,Income group,Year,Number of female business owners,Number of male business owners,Total number of business owners
+Afghanistan,Low income,,,,
+Afghanistan,Low income,2014,65,5043,5108
+Afghanistan,Low income,2015,45,4704,4749
+Afghanistan,Low income,2016,65,5036,5101
+Afghanistan,Low income,2017,88,6047,6135
+Afghanistan,Low income,2018,177,8482,8659
+Albania,Upper middle income,,,,
+Albania,Upper middle income,2014,401,1818,2219
+Albania,Upper middle income,2015,457,2159,2616
+Albania,Upper middle income,2016,505,2174,2679
+Albania,Upper middle income,2017,642,2343,2985
+Albania,Upper middle income,2018,562,2428,2990
+Algeria,Upper middle income,,,,
+Algeria,Upper middle income,2014,522,7904,8426
+Algeria,Upper middle income,2015,544,7549,8093
+Algeria,Upper middle income,2016,637,8204,8841
+Algeria,Upper middle income,2017,658,9227,9885
+Algeria,Upper middle income,2018,656,8816,9472
+Austria,High income,,,,
+Austria,High income,2014,,,
+Austria,High income,2015,,,
+Austria,High income,2016,,,
+Austria,High income,2017,,,
+Austria,High income,2018,,,
+Azerbaijan,Upper middle income,,,,
+Azerbaijan,Upper middle income,2014,828,5963,6791
+Azerbaijan,Upper middle income,2015,786,4422,5208
+Azerbaijan,Upper middle income,2016,970,6249,7219
+Azerbaijan,Upper middle income,2017,1991,10780,12771
+Azerbaijan,Upper middle income,2018,2225,11693,13918
+Bahrain,High income,,,,
+Bahrain,High income,2014,714,2446,3160
+Bahrain,High income,2015,834,2488,3322
+Bahrain,High income,2016,2215,6808,9023
+Bahrain,High income,2017,2087,7352,9439
+Bahrain,High income,2018,1799,6574,8373
+Belarus,Upper middle income,,,,
+Belarus,Upper middle income,2014,3807,11175,14982
+Belarus,Upper middle income,2015,3514,8913,12427
+Belarus,Upper middle income,2016,3204,8704,11908
+Belarus,Upper middle income,2017,3071,8863,11934
+Belarus,Upper middle income,2018,3238,9801,13039
+Benin,Low income,,,,
+Benin,Low income,2014,385,2142,2527
+Benin,Low income,2015,517,3062,3579
+Benin,Low income,2016,676,3064,3740
+Benin,Low income,2017,709,2819,3528
+Benin,Low income,2018,640,2701,3341
+Bhutan,Lower middle income,,,,
+Bhutan,Lower middle income,2014,14,68,82
+Bhutan,Lower middle income,2015,33,67,100
+Bhutan,Lower middle income,2016,35,84,119
+Bhutan,Lower middle income,2017,58,118,176
+Bhutan,Lower middle income,2018,37,74,111
+Brunei Darussalam,High income,,,,
+Brunei Darussalam,High income,2014,,,
+Brunei Darussalam,High income,2015,379,962,1341
+Brunei Darussalam,High income,2016,459,1255,1714
+Brunei Darussalam,High income,2017,479,1229,1708
+Brunei Darussalam,High income,2018,510,1129,1639
+Cambodia,Lower middle income,,,,
+Cambodia,Lower middle income,2014,,,
+Cambodia,Lower middle income,2015,,,
+Cambodia,Lower middle income,2016,6556,18558,25114
+Cambodia,Lower middle income,2017,2803,8435,11238
+Cambodia,Lower middle income,2018,3247,10507,13754
+Central African Republic,Low income,,,,
+Central African Republic,Low income,2014,,,
+Central African Republic,Low income,2015,,,
+Central African Republic,Low income,2016,,,
+Central African Republic,Low income,2017,,,
+Central African Republic,Low income,2018,,,
+Chile,High income,,,,
+Chile,High income,2014,25570,54787,80357
+Chile,High income,2015,30782,65839,96621
+Chile,High income,2016,36029,75892,111921
+Chile,High income,2017,41761,84376,126137
+Chile,High income,2018,48542,95444,143986
+Cote d'Ivoire,Lower middle income,,,,
+Cote d'Ivoire,Lower middle income,2014,1525,6509,8034
+Cote d'Ivoire,Lower middle income,2015,1181,5595,6776
+Cote d'Ivoire,Lower middle income,2016,2871,11402,14273
+Cote d'Ivoire,Lower middle income,2017,2505,11296,13801
+Cote d'Ivoire,Lower middle income,2018,3773,13581,17354
+Croatia,High income,,,,
+Croatia,High income,2014,,,
+Croatia,High income,2015,,,
+Croatia,High income,2016,,,
+Croatia,High income,2017,,,
+Croatia,High income,2018,,,
+Denmark,High income,,,,
+Denmark,High income,2014,3715,16556,20271
+Denmark,High income,2015,5423,21724,27147
+Denmark,High income,2016,6286,24924,31210
+Denmark,High income,2017,7154,28250,35404
+Denmark,High income,2018,7380,28550,35930
+Dominica,Upper middle income,,,,
+Dominica,Upper middle income,2014,157,387,544
+Dominica,Upper middle income,2015,125,330,455
+Dominica,Upper middle income,2016,110,320,430
+Dominica,Upper middle income,2017,,,
+Dominica,Upper middle income,2018,,,
+Estonia,High income,,,,
+Estonia,High income,2014,6491,14596,21087
+Estonia,High income,2015,6588,15467,22055
+Estonia,High income,2016,7137,15834,22971
+Estonia,High income,2017,7158,16515,23673
+Estonia,High income,2018,6593,16453,23046
+Ethiopia,Low income,,,,
+Ethiopia,Low income,2014,,,
+Ethiopia,Low income,2015,,,
+Ethiopia,Low income,2016,,,
+Ethiopia,Low income,2017,,,
+Ethiopia,Low income,2018,,,
+France,High income,,,,
+France,High income,2014,,,
+France,High income,2015,,,
+France,High income,2016,,,
+France,High income,2017,,,
+France,High income,2018,,,
+Georgia,Upper middle income,,,,
+Georgia,Upper middle income,2014,5799,16411,22210
+Georgia,Upper middle income,2015,6077,16517,22594
+Georgia,Upper middle income,2016,6747,18435,25182
+Georgia,Upper middle income,2017,7931,20280,28211
+Georgia,Upper middle income,2018,7218,19546,26764
+Germany,High income,,,,
+Germany,High income,2014,13368,75548,88916
+Germany,High income,2015,13833,78548,92381
+Germany,High income,2016,13791,80100,93891
+Germany,High income,2017,14127,81522,95649
+Germany,High income,2018,14408,84613,99021
+Guinea,Low income,,,,
+Guinea,Low income,2014,96,698,794
+Guinea,Low income,2015,171,1284,1455
+Guinea,Low income,2016,191,1662,1853
+Guinea,Low income,2017,331,2015,2346
+Guinea,Low income,2018,321,2309,2630
+Italy,High income,,,,
+Italy,High income,2014,19867,72509,92376
+Italy,High income,2015,21391,79172,100563
+Italy,High income,2016,21226,81438,102664
+Italy,High income,2017,22576,88737,111313
+Italy,High income,2018,24377,90562,114939
+Jamaica,Upper middle income,,,,
+Jamaica,Upper middle income,2014,897,1825,2722
+Jamaica,Upper middle income,2015,1050,2173,3223
+Jamaica,Upper middle income,2016,1197,2476,3673
+Jamaica,Upper middle income,2017,1255,2791,4046
+Jamaica,Upper middle income,2018,1462,3183,4645
+Jordan,Upper middle income,,,,
+Jordan,Upper middle income,2014,1166,6846,8012
+Jordan,Upper middle income,2015,1170,5762,6932
+Jordan,Upper middle income,2016,1017,5530,6547
+Jordan,Upper middle income,2017,1401,7897,9298
+Jordan,Upper middle income,2018,1322,6087,7409
+Kazakhstan,Upper middle income,,,,
+Kazakhstan,Upper middle income,2014,7310,19012,26322
+Kazakhstan,Upper middle income,2015,7136,18040,25176
+Kazakhstan,Upper middle income,2016,7526,18793,26319
+Kazakhstan,Upper middle income,2017,,,
+Kazakhstan,Upper middle income,2018,,,
+Kiribati,Lower middle income,,,,
+Kiribati,Lower middle income,2014,,,
+Kiribati,Lower middle income,2015,,,
+Kiribati,Lower middle income,2016,,,
+Kiribati,Lower middle income,2017,1,7,8
+Kiribati,Lower middle income,2018,1,3,4
+"Korea, Rep.",High income,,,,
+"Korea, Rep.",High income,2014,19726,64971,84697
+"Korea, Rep.",High income,2015,22229,71539,93768
+"Korea, Rep.",High income,2016,23070,73085,96155
+"Korea, Rep.",High income,2017,,,
+"Korea, Rep.",High income,2018,,,
+Kosovo,Upper middle income,,,,
+Kosovo,Upper middle income,2014,280,1820,2100
+Kosovo,Upper middle income,2015,382,2144,2526
+Kosovo,Upper middle income,2016,738,3255,3993
+Kosovo,Upper middle income,2017,799,3841,4640
+Kosovo,Upper middle income,2018,997,4356,5353
+Lao PDR,Lower middle income,,,,
+Lao PDR,Lower middle income,2014,67,261,328
+Lao PDR,Lower middle income,2015,66,308,374
+Lao PDR,Lower middle income,2016,105,385,490
+Lao PDR,Lower middle income,2017,148,498,646
+Lao PDR,Lower middle income,2018,180,714,894
+Latvia,High income,,,,
+Latvia,High income,2014,3188,6462,9650
+Latvia,High income,2015,2921,6106,9027
+Latvia,High income,2016,2747,5637,8384
+Latvia,High income,2017,2888,5687,8575
+Latvia,High income,2018,3197,6187,9384
+Lesotho,Lower middle income,,,,
+Lesotho,Lower middle income,2014,,,
+Lesotho,Lower middle income,2015,,,
+Lesotho,Lower middle income,2016,,,
+Lesotho,Lower middle income,2017,1116,2339,3455
+Lesotho,Lower middle income,2018,2438,4821,7259
+Liberia,Low income,,,,
+Liberia,Low income,2014,,,
+Liberia,Low income,2015,,,
+Liberia,Low income,2016,,,
+Liberia,Low income,2017,,,
+Liberia,Low income,2018,,,
+North Macedonia,Upper middle income,,,,
+North Macedonia,Upper middle income,2014,1714,3746,5460
+North Macedonia,Upper middle income,2015,1848,3896,5744
+North Macedonia,Upper middle income,2016,1819,3710,5529
+North Macedonia,Upper middle income,2017,1768,3491,5259
+North Macedonia,Upper middle income,2018,1532,3594,5126
+Malaysia,Upper middle income,,,,
+Malaysia,Upper middle income,2014,30571,68077,98648
+Malaysia,Upper middle income,2015,29048,68567,97615
+Malaysia,Upper middle income,2016,26899,63112,90011
+Malaysia,Upper middle income,2017,32052,77343,109395
+Malaysia,Upper middle income,2018,30301,74836,105137
+Mali,Low income,,,,
+Mali,Low income,2014,,,
+Mali,Low income,2015,,,
+Mali,Low income,2016,,,
+Mali,Low income,2017,,,
+Mali,Low income,2018,274,3005,3279
+Malta,High income,,,,
+Malta,High income,2014,745,3429,4174
+Malta,High income,2015,691,4001,4692
+Malta,High income,2016,766,3647,4413
+Malta,High income,2017,748,3887,4635
+Malta,High income,2018,931,4746,5677
+Mauritania,Lower middle income,,,,
+Mauritania,Lower middle income,2014,,,
+Mauritania,Lower middle income,2015,15,204,219
+Mauritania,Lower middle income,2016,81,913,994
+Mauritania,Lower middle income,2017,82,1040,1122
+Mauritania,Lower middle income,2018,105,854,959
+Mauritius,Upper middle income,,,,
+Mauritius,Upper middle income,2014,2363,4728,7091
+Mauritius,Upper middle income,2015,2448,5497,7945
+Mauritius,Upper middle income,2016,2950,5901,8851
+Mauritius,Upper middle income,2017,2919,5838,8757
+Mauritius,Upper middle income,2018,1645,6640,8285
+Mexico,Upper middle income,,,,
+Mexico,Upper middle income,2014,,,
+Mexico,Upper middle income,2015,,,
+Mexico,Upper middle income,2016,,,
+Mexico,Upper middle income,2017,,,
+Mexico,Upper middle income,2018,,,
+Mongolia,Lower middle income,,,,
+Mongolia,Lower middle income,2014,5692,12029,17721
+Mongolia,Lower middle income,2015,5351,10543,15894
+Mongolia,Lower middle income,2016,6079,10750,16829
+Mongolia,Lower middle income,2017,7373,12940,20313
+Mongolia,Lower middle income,2018,8135,13950,22085
+Morocco,Lower middle income,,,,
+Morocco,Lower middle income,2014,7504,40582,48086
+Morocco,Lower middle income,2015,8618,43438,52056
+Morocco,Lower middle income,2016,10306,50219,60525
+Morocco,Lower middle income,2017,7896,34739,42635
+Morocco,Lower middle income,2018,11225,56003,67228
+Myanmar,Lower middle income,,,,
+Myanmar,Lower middle income,2014,,,
+Myanmar,Lower middle income,2015,,,
+Myanmar,Lower middle income,2016,,,
+Myanmar,Lower middle income,2017,,,
+Myanmar,Lower middle income,2018,2949,7091,10040
+Nepal,Low income,,,,
+Nepal,Low income,2014,2062,11240,13302
+Nepal,Low income,2015,2392,11705,14097
+Nepal,Low income,2016,3057,16175,19232
+Nepal,Low income,2017,3276,18302,21578
+Nepal,Low income,2018,3760,22700,26460
+Netherlands,High income,,,,
+Netherlands,High income,2014,3722,18226,21948
+Netherlands,High income,2015,3899,18133,22032
+Netherlands,High income,2016,3886,18824,22710
+Netherlands,High income,2017,4237,20056,24293
+Netherlands,High income,2018,4697,21681,26378
+Nigeria,Lower middle income,,,,
+Nigeria,Lower middle income,2014,,,
+Nigeria,Lower middle income,2015,144300,299571,443871
+Nigeria,Lower middle income,2016,162372,332884,495256
+Nigeria,Lower middle income,2017,170520,336890,507410
+Nigeria,Lower middle income,2018,178937,354579,533516
+Norway,High income,,,,
+Norway,High income,2014,,,
+Norway,High income,2015,1770,5570,7340
+Norway,High income,2016,6000,20216,26216
+Norway,High income,2017,6571,21862,28433
+Norway,High income,2018,6843,21902,28745
+Oman,High income,,,,
+Oman,High income,2014,1298,6215,7513
+Oman,High income,2015,2308,12259,14567
+Oman,High income,2016,2330,13307,15637
+Oman,High income,2017,2229,11447,13676
+Oman,High income,2018,1644,10265,11909
+Pakistan,Lower middle income,,,,
+Pakistan,Lower middle income,2014,2013,10330,12343
+Pakistan,Lower middle income,2015,2158,11677,13835
+Pakistan,Lower middle income,2016,2631,13999,16630
+Pakistan,Lower middle income,2017,3554,19038,22592
+Pakistan,Lower middle income,2018,5198,30817,36015
+Philippines,Lower middle income,,,,
+Philippines,Lower middle income,2014,,,
+Philippines,Lower middle income,2015,,,
+Philippines,Lower middle income,2016,,,
+Philippines,Lower middle income,2017,,,
+Philippines,Lower middle income,2018,,,
+Poland,High income,,,,
+Poland,High income,2014,,,
+Poland,High income,2015,,,
+Poland,High income,2016,,,
+Poland,High income,2017,,,
+Poland,High income,2018,,,
+Qatar,High income,,,,
+Qatar,High income,2014,721,4719,5440
+Qatar,High income,2015,1067,6665,7732
+Qatar,High income,2016,1271,8525,9796
+Qatar,High income,2017,1600,11309,12909
+Qatar,High income,2018,1863,12975,14838
+Romania,Upper middle income,,,,
+Romania,Upper middle income,2014,29108,50033,79141
+Romania,Upper middle income,2015,33708,53948,87656
+Romania,Upper middle income,2016,38050,59196,97246
+Romania,Upper middle income,2017,50719,77638,128357
+Romania,Upper middle income,2018,47464,73628,121092
+Rwanda,Low income,,,,
+Rwanda,Low income,2014,,,
+Rwanda,Low income,2015,,,
+Rwanda,Low income,2016,,,
+Rwanda,Low income,2017,,,
+Rwanda,Low income,2018,,,
+Samoa,Upper middle income,,,,
+Samoa,Upper middle income,2014,122,216,338
+Samoa,Upper middle income,2015,99,159,258
+Samoa,Upper middle income,2016,62,109,171
+Samoa,Upper middle income,2017,100,179,279
+Samoa,Upper middle income,2018,85,167,252
+Saudi Arabia,High income,,,,
+Saudi Arabia,High income,2014,,,
+Saudi Arabia,High income,2015,,,
+Saudi Arabia,High income,2016,1322,7960,9282
+Saudi Arabia,High income,2017,1815,10575,12390
+Saudi Arabia,High income,2018,2435,14242,16677
+Senegal,Lower middle income,,,,
+Senegal,Lower middle income,2014,,,
+Senegal,Lower middle income,2015,,,
+Senegal,Lower middle income,2016,,,
+Senegal,Lower middle income,2017,,,
+Senegal,Lower middle income,2018,,,
+Serbia,Upper middle income,,,,
+Serbia,Upper middle income,2014,2514,6161,8675
+Serbia,Upper middle income,2015,2392,5922,8314
+Serbia,Upper middle income,2016,2308,6421,8729
+Serbia,Upper middle income,2017,2474,6891,9365
+Serbia,Upper middle income,2018,2381,6553,8934
+Slovak Republic,High income,,,,
+Slovak Republic,High income,2014,,,
+Slovak Republic,High income,2015,,,
+Slovak Republic,High income,2016,,,
+Slovak Republic,High income,2017,,,
+Slovak Republic,High income,2018,,,
+Slovenia,High income,,,,
+Slovenia,High income,2014,1141,2737,3878
+Slovenia,High income,2015,1052,2787,3839
+Slovenia,High income,2016,985,2510,3495
+Slovenia,High income,2017,1043,2611,3654
+Slovenia,High income,2018,950,2577,3527
+Somalia,Low income,,,,
+Somalia,Low income,2014,,,
+Somalia,Low income,2015,,,
+Somalia,Low income,2016,,,
+Somalia,Low income,2017,,,
+Somalia,Low income,2018,,,
+St. Lucia,Upper middle income,,,,
+St. Lucia,Upper middle income,2014,,,
+St. Lucia,Upper middle income,2015,108,178,286
+St. Lucia,Upper middle income,2016,70,212,282
+St. Lucia,Upper middle income,2017,,,
+St. Lucia,Upper middle income,2018,,,
+Suriname,Upper middle income,,,,
+Suriname,Upper middle income,2014,,,
+Suriname,Upper middle income,2015,,,
+Suriname,Upper middle income,2016,,,
+Suriname,Upper middle income,2017,,,
+Suriname,Upper middle income,2018,,,
+Sweden,High income,,,,
+Sweden,High income,2014,,,
+Sweden,High income,2015,,,
+Sweden,High income,2016,,,
+Sweden,High income,2017,,,
+Sweden,High income,2018,,,
+"Taiwan, China",High income,,,,
+"Taiwan, China",High income,2014,8875,15685,24560
+"Taiwan, China",High income,2015,9029,15710,24739
+"Taiwan, China",High income,2016,8924,15991,24915
+"Taiwan, China",High income,2017,9200,16952,26152
+"Taiwan, China",High income,2018,9094,16725,25819
+Tajikistan,Low income,,,,
+Tajikistan,Low income,2014,78,2193,2271
+Tajikistan,Low income,2015,99,1728,1827
+Tajikistan,Low income,2016,72,1404,1476
+Tajikistan,Low income,2017,73,1117,1190
+Tajikistan,Low income,2018,97,1150,1247
+Thailand,Upper middle income,,,,
+Thailand,Upper middle income,2014,,,
+Thailand,Upper middle income,2015,,,
+Thailand,Upper middle income,2016,,,
+Thailand,Upper middle income,2017,,,
+Thailand,Upper middle income,2018,,,
+Togo,Low income,,,,
+Togo,Low income,2014,147,935,1082
+Togo,Low income,2015,246,1458,1704
+Togo,Low income,2016,265,1395,1660
+Togo,Low income,2017,302,1465,1767
+Togo,Low income,2018,506,1628,2134
+Turkey,Upper middle income,,,,
+Turkey,Upper middle income,2014,11136,83338,94474
+Turkey,Upper middle income,2015,10166,94594,104760
+Turkey,Upper middle income,2016,8775,90901,99676
+Turkey,Upper middle income,2017,18056,95108,113164
+Turkey,Upper middle income,2018,20922,105401,126323
+United Arab Emirates,High income,,,,
+United Arab Emirates,High income,2014,10954,102505,113459
+United Arab Emirates,High income,2015,11879,106402,118281
+United Arab Emirates,High income,2016,11165,117886,129051
+United Arab Emirates,High income,2017,16795,156928,173723
+United Arab Emirates,High income,2018,16921,176241,193162
+Vanuatu,Lower middle income,,,,
+Vanuatu,Lower middle income,2014,,,
+Vanuatu,Lower middle income,2015,,,
+Vanuatu,Lower middle income,2016,292,825,1117
+Vanuatu,Lower middle income,2017,,,
+Vanuatu,Lower middle income,2018,,,
+Zambia,Lower middle income,,,,
+Zambia,Lower middle income,2014,4611,17184,21795
+Zambia,Lower middle income,2015,4627,15545,20172
+Zambia,Lower middle income,2016,4041,13905,17946
+Zambia,Lower middle income,2017,4059,14931,18990
+Zambia,Lower middle income,2018,4481,16092,20573
