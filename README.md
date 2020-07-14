@@ -7,8 +7,11 @@
 * [Question & Hypotheses](https://github.com/sabrinarubert/femaleEntrepreneurship#question--hypotheses)
 * [Dataset](https://github.com/sabrinarubert/femaleEntrepreneurship#dataset)
 * [Workflow](https://github.com/sabrinarubert/femaleEntrepreneurship#workflow)
-* [Organization](https://github.com/sabrinarubert/femaleEntrepreneurship#organization)
+* [Analysis](https://github.com/sabrinarubert/femaleEntrepreneurship#organization)
+* [Conclusion](https://github.com/sabrinarubert/femaleEntrepreneurship#conclusion)
+* [Limitations](https://github.com/sabrinarubert/femaleEntrepreneurship#limitations)
 * [Links](https://github.com/sabrinarubert/femaleEntrepreneurship#links)
+
 
 ## Project Description
 In general everybody knows tht there is still a gender gap in entrepreneurship worldwide, even though several studies actually demonstate the positive impact of female entrepreneurs on economic growth and development. I decided to dive deeper into the data of female versus male entrepreneurs and see how the current distribution looks like, as well as to find out what could be factors that support or rather influence female entrepreneurship.
@@ -32,18 +35,6 @@ The following workflow was implemented:
 4. Analysis
 5. Conclusions
 6. Visualization & Presentation
-
-## Links
-This repository is divided into different folders.
-
-**Data Cleaning & Analysis**
-* Notebook: [World Bank data - cleaning and analyzing](https://github.com/sabrinarubert/femaleEntrepreneurship/blob/master/Analysis/World%20Bank%20data%20-%20cleaning%20and%20analyzing.ipynb)
-
-**Presentation**
-* Google Slides: [200710_InsightsEntrepreneurship](https://github.com/sabrinarubert/femaleEntrepreneurship/blob/master/Presentation/200710_InsightsEntrepreneurship.pdf)
-
-**Definition of terms**
-* Notebook: [Definition of terms](https://github.com/sabrinarubert/femaleEntrepreneurship/blob/master/Other/Definition%20of%20terms.ipynb)
 
 ## Analysis
 **Share of business owners**
@@ -77,4 +68,16 @@ The gender gap remains high around many economies around the world. The income o
 There is an overall lack of data with regards to female entrepreneurship. That makes it hard to look for example at the share of female entrepreneurship over time (not all countries provide data every year). More research must be done to have a more detailed picture about that topic.
 
 Furthermore it would be interesting to look at other factors that have an influence on female entrepreneurship as for example education or access to financial institutions.
+
+## Links
+This repository is divided into different folders.
+
+**Data Cleaning & Analysis**
+* Notebook: [World Bank data - cleaning and analyzing](https://github.com/sabrinarubert/femaleEntrepreneurship/blob/master/Analysis/World%20Bank%20data%20-%20cleaning%20and%20analyzing.ipynb)
+
+**Presentation**
+* Google Slides: [200710_InsightsEntrepreneurship](https://github.com/sabrinarubert/femaleEntrepreneurship/blob/master/Presentation/200710_InsightsEntrepreneurship.pdf)
+
+**Definition of terms**
+* Notebook: [Definition of terms](https://github.com/sabrinarubert/femaleEntrepreneurship/blob/master/Other/Definition%20of%20terms.ipynb)
 
