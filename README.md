@@ -19,7 +19,7 @@ In general everybody knows tht there is still a gender gap in entrepreneurship w
 * What kind of factors support or inhibit female entrepreneurship?
 
 ## Dataset
-For the analysis I used publicly available data from the World Bank Data. The data about female & male entrepreneurs can be found [here](https://www.doingbusiness.org/en/data/exploretopics/entrepreneurship/gender#1). Also I looked at the Women Business and the Law Index data, which is also available on the World Bank Data website [Link](https://wbl.worldbank.org/en/wbl-data).
+For the analysis I used publicly available data from the World Bank Data. The data about female & male entrepreneurs can be found [here](https://www.doingbusiness.org/en/data/exploretopics/entrepreneurship/gender#1). Also I looked at the Women Business and the Law Index data, which is also available on the World Bank Data website [(Link)](https://wbl.worldbank.org/en/wbl-data).
 
 When downloading the data I realized that there were a lot of countries within the dataset without any numbers. I had to remove a few countries were there was no data for the most recent year as I wanted to especially focus on that. Furthermore I had merge the Women and Business and the Law Index data with the entrepreneurship data.
 
