@@ -66,9 +66,9 @@ As I found out from the descriptive statistics that there are differences in fem
 
 As gender gaps in female business are often reflected by disparities in women's legal rights (for example use of property, going to court, building credit etc.), I found the Women Business and the Law Index, which measures those factors in various countries and gives out an index score.
 
-To test my assumptions I did a regression analysis to see if on the one hand the income country and on the other hand the Women Business and the Law Index influences female entrpreneurship.
+To test my assumptions I did a regression analysis to see if on the one hand the income country and on the other hand the Women Business and the Law Index, influences female entrpreneurship.
 
-The Analysis showed a higher r-squared for the factor of the income group (0.325) and a smaller one for the women business and the law index (0.193).Therefore it showed that the income of a country has a higher influence on the proportion of female entrepreneurs than legal disparities.
+The analysis showed a higher r-squared for the factor of the income group (0.325) and a smaller one for the Women Business and the Law Index (0.193).Therefore it showed that the income of a country has a higher influence on the proportion of female entrepreneurs than legal disparities.
 
 ## Conclusions
 The gender gap remains high around many economies around the world. The income of the country has a higher influence on the proportion of female entrepreneurship than legal disparities. This suggests that women indeed have the opportunity to build businesses and are not held back by legal disparities. Still, there must be other factors that have an influence on female entrepreneurship as for example education or access to financial institutions. 
@@ -76,5 +76,5 @@ The gender gap remains high around many economies around the world. The income o
 ## Limitations
 There is an overall lack of data with regards to female entrepreneurship. That makes it hard to look for example at the share of female entrepreneurship over time (not all countries provide data every year). More research must be done to have a more detailed picture about that topic.
 
-Furthermre it would be interesting to look at other factors that have an influence on female entrepreneurship as for example education or access to financial institutions.
+Furthermore it would be interesting to look at other factors that have an influence on female entrepreneurship as for example education or access to financial institutions.
 
