@@ -30,7 +30,7 @@ When downloading the data I realized that there were a lot of countries within t
 The following workflow was implemented:
 
 1. Choosing the dataset
-2. Deciding in the focus for the project
+2. Deciding on the focus for the project
 3. Data cleaning and wrangling
 4. Analysis
 5. Conclusions
@@ -61,7 +61,7 @@ To test my assumptions I did a regression analysis to see if on the one hand the
 
 The analysis showed a higher r-squared for the factor of the income group (0.325) and a smaller one for the Women Business and the Law Index (0.193).Therefore it showed that the income of a country has a higher influence on the proportion of female entrepreneurs than legal disparities.
 
-## Conclusions
+## Conclusion
 The gender gap remains high around many economies around the world. The income of the country has a higher influence on the proportion of female entrepreneurship than legal disparities. This suggests that women indeed have the opportunity to build businesses and are not held back by legal disparities. Still, there must be other factors that have an influence on female entrepreneurship as for example education or access to financial institutions. 
 
 ## Limitations
